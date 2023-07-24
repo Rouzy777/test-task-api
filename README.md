@@ -4,11 +4,6 @@
 
 After cloning the repo:
 
-Create a .env file with content:
-```bash
-PORT=3001
-```
-
 Install dependencies:
 ```bash
 npm install
